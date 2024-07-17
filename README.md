@@ -22,3 +22,8 @@
 > :white_check_mark:  Skipping Wrokflow works only for  ``` on: push or on: pull_request ```
 
 ![image](https://github.com/user-attachments/assets/03966489-34e0-4e9e-af81-b5be3a0162ef)
+
+### Disabling and enabling a workflow
+
+![image](https://github.com/user-attachments/assets/e695448c-4418-48dc-9e0f-e9c9d35e23e7)
+

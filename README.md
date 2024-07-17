@@ -20,3 +20,5 @@
  You can follow other syntax as well given in below link <br><a href= "https://docs.github.com/en/actions/managing-workflow-runs/skipping-workflow-runs" target="_blank">Skipping workflow runs</a>
 
 > :white_check_mark:  Skipping Wrokflow works only for  ``` on: push or on: pull_request ```
+
+![image](https://github.com/user-attachments/assets/03966489-34e0-4e9e-af81-b5be3a0162ef)
